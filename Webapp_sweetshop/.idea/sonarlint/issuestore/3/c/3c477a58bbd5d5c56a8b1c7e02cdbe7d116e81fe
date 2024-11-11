@@ -1,0 +1,9 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "ROLE_ADMIN" 3 times.(Ôîûõ8º¾»ıŸ2
+v
+java:S1118":Add a private constructor to hide the implicit public one.(ÛùËJ$f838ba63-d25d-4627-8f0c-49194c6581de
+|	java:S125,"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿJ$16210ce1-efca-43f7-9a24-c7baa1db843a
+f
+java:S1181P"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿJ$e84fc0c8-8089-46c1-9d6c-147b90e61b54
+k	java:S106Q"+Replace this use of System.err by a logger.(Ô˜ÒòıÿÿÿÿJ$739baf7a-9c3d-4276-a54b-36003392f238
